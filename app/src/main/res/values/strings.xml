@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Nutritrack</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="logo_alt_text">NutriTrack Logo</string>
+    <string name="app_description">This app provides general health and nutrition information for educational purposes only. It is not intended as medical advice, diagnosis, or treatment. Always consult a qualified healthcare professional before making any changes to your diet, exercise, or health regimen. Use this app at your own risk. If you’d like to an Accredited Practicing Dietitian (APD), please visit the Monash Nutrition/Dietetics Clinic (discounted rates for students): https://www.monash.edu/medicine/scs/nutrition/clinics/nutrition</string>
+    <string name="login">Login</string>
+    <string name="credits">Justin Tan Jing Yi | 34279075</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="login_title">Log in</string>
+    <string name="userID_input_label">My ID (Provided by your Clinician)</string>
+    <string name="password_input_label">Password</string>
+    <string name="login_notice">This app is only for pre-registered users. Please enter your ID and password or register to claim your account on your first visit.</string>
+    <string name="title_activity_nutri_coach_screen">NutriCoachScreen</string>
+    <string name="title_activity_questionnaire_screen">QuestionnaireScreen</string>
+    <string name="title_activity_register_screen">RegisterScreen</string>
+    <string name="title_activity_settings_screen">SettingsScreen</string>
+    <string name="title_activity_insights_screen">InsightsScreen</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_admin_screen">AdminScreen</string>
+</resources>
