@@ -11,6 +11,10 @@ Clinicians and admins can view aggregated statistics and AI-generated trends fro
 
 ---
 
+<video src="https://i.imgur.com/na6J8aL.mp4" autoplay loop muted playsinline width="500"></video>
+[▶ Watch Demo](https://i.imgur.com/na6J8aL.mp4)
+---
+
 ## Key Features
 - **Local Database (Room)**
   - Stores user data, dietary intake, and AI tips.
